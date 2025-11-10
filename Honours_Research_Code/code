@@ -1,1 +1,5 @@
 In this directory you will find the code to the non associative lambek calculus parser based on degrootes SC calculus. The backward parser code is the one that was used and developed primarily for the research
+
+
+
+when using the parser , please use the exact characters provided in the menu, specifically for product , use (•) not (.)
